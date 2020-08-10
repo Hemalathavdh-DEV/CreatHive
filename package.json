@@ -9,12 +9,22 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "axios": "^0.19.2",
     "bcrypt": "^4.0.1",
+    "cheerio": "^1.0.0-rc.3",
     "config": "^3.3.1",
     "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "global": "^4.4.0",
+    "googleapis": "^27.0.0",
     "jsonwebtoken": "^8.5.1",
     "lodash": "^4.17.15",
     "mongodb": "^3.5.7",
-    "mongoose": "^5.9.15"
+    "mongoose": "^5.9.15",
+    "path": "^0.12.7",
+    "pdf-parse": "^1.1.1",
+    "pdfreader": "^1.0.7",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.5"
   }
 }
